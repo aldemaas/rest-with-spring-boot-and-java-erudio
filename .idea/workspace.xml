@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee6a2a2e-7bff-46ca-a8ce-49d647870e42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+    <list default="true" id="ee6a2a2e-7bff-46ca-a8ce-49d647870e42" name="Changes" comment="First steps in Java with Spring Boot">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +51,7 @@
     "Spring Boot.Startup.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/aldem/OneDrive/Documentos/GitHub/rest-with-spring-boot-and-java-erudio/05_FirstStepsInJavawithSpringBoot/rest-with-spring-boot-and-java-erudio/rest-with-spring-boot-and-java-erudio/src/main/java/br/com/erudio",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -95,11 +91,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716222881732</updated>
-      <workItem from="1716222882821" duration="3707000" />
+      <workItem from="1716222882821" duration="4100000" />
     </task>
+    <task id="LOCAL-00001" summary="First steps in Java with Spring Boot">
+      <option name="closed" value="true" />
+      <created>1716238964835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716238964835</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First steps in Java with Spring Boot" />
+    <option name="LAST_COMMIT_MESSAGE" value="First steps in Java with Spring Boot" />
   </component>
 </project>
